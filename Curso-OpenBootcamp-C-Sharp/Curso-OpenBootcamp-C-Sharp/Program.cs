@@ -14,6 +14,7 @@ namespace Curso_OpenBootcamp_C_Sharp
             string miNombre = "Sebastian Amaral, un placer conocerte!!";
             Console.WriteLine("Hola " + nombre + ", el mio es " + miNombre);
             Console.WriteLine("==================================");
+            //Ejercicio 2
             Console.WriteLine("La hora actual es: " + DateTime.Now);
         }
     }
